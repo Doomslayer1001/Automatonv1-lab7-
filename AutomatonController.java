@@ -57,3 +57,15 @@ public class AutomatonController
         auto.print();
     }
 }
+/*24)when running step method it it creat a star that will form a triangle be
+ * adding more for each step
+ * 25)yes the same pattern return when reseted
+ * 26)there is two fill method in the Array for parameter for the int type
+ * it reset the array reset all cell.
+ * 27)
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
