@@ -62,7 +62,7 @@ public class AutomatonController
  * 25)yes the same pattern return when reseted
  * 26)there is two fill method in the Array for parameter for the int type
  * it reset the array reset all cell.
- * 27)
+ * 27)when chaging to  1 it form a star but it does not form the next one instead it skip 3 line blanc
  * 
  * 
  * 
